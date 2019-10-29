@@ -1,0 +1,23 @@
+{
+  "name": "github-package-registry-test-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mizdra/github-package-registry-test-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mizdra/github-package-registry-test-app/issues"
+  },
+  "homepage": "https://github.com/mizdra/github-package-registry-test-app#readme",
+  "dependencies": {
+    "@mizdra/github-package-registry-test": "^0.0.0"
+  }
+}
