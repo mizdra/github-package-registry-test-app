@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/mizdra/github-package-registry-test-app#readme",
   "dependencies": {
-    "@mizdra/github-package-registry-test": "^0.0.0"
+    "@mizdra/github-package-registry-test": "0.0.0",
+    "chalk": "^2.4.2"
   }
 }
