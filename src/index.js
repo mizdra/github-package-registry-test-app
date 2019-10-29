@@ -1,2 +1,4 @@
 const { add } = require('@mizdra/github-package-registry-test')
-console.log(add(1, 2))
+const chalk = require('chalk')
+
+console.log(chalk.green(add(1, 2)))
